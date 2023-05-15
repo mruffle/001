@@ -1,2 +1,2 @@
 url = https://webcf2.ojwincf2.com/home/game?cid=812920
-is_open = false
+is_open = true
